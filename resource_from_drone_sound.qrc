@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="sources"/>
+  <qresource prefix="Images">
+    <file>resources/images/help.png</file>
+    <file>resources/images/home.png</file>
+    <file>resources/images/sound_drone_conf2.png</file>
+    <file>resources/images/army_bakground.png</file>
+    <file>resources/images/question.png</file>
+    <file>resources/images/white.png</file>
+    <file>resources/images/sound_drone_conf1.png</file>
+    <file>resources/images/back_image_mine_page.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>resources/icons/icons8-coat-of-arms-of-ukraine-64.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>resources/images/white.png</file>
+    <file>resources/images/back_image_mine_page.png</file>
+    <file>resources/images/fild_mine_map.png</file>
+    <file>resources/images/fild_mine2.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>resources/icons/icons8-coat-of-arms-of-ukraine-64.png</file>
+  </qresource>
+</RCC>

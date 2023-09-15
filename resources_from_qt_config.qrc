@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Icons"/>
+  <qresource prefix="Images">
+    <file>resources/images/back_image_mine_page.png</file>
+    <file>resources/images/fild_mine_map.png</file>
+    <file>resources/images/fild_mine2.png</file>
+    <file>resources/images/filds.png</file>
+    <file>resources/images/logo_alton.png</file>
+    <file>resources/images/white.png</file>
+  </qresource>
+</RCC>
